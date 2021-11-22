@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 개발과 기획을 좋아하는 준영입니당
-![header](https://capsule-render.vercel.app/api?text=Jun&profile&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=profile&&animation=fadeIn)
 
 
 
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-jun&layout=compact)](https://github.com/soft-jun/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&show_icons=true&theme=radical)
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square@logo=React&logoColor=white"/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=soft-jun&theme=flat&column=7)](https://github.com/soft-jun/github-profile-trophy)
 
 
