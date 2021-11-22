@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-jun&layout=compact)](https://github.com/soft-jun/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&show_icons=true&theme=radical)
-
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 
 
