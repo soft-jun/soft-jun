@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jun%20Profile&fontSize=90" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-jun&layout=compact)](https://github.com/soft-jun/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square@logo=React&logoColor=white"/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=soft-jun&theme=flat&column=7)](https://github.com/soft-jun/github-profile-trophy)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jun%20Profile&fontSize=90" />
+
 
 
 
