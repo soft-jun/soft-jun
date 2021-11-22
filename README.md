@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-jun&layout=compact)](https://github.com/soft-jun/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun)](https://github.com/soft-jun/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&count_private=true)
+
 
