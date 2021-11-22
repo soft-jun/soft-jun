@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jun%20Young&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=Jun%20Young&fontSize=90" />
 <p/>
 <hr>
 
