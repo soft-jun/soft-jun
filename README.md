@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 개발과 기획을 좋아하는 준영입니당
-![header](https://capsule-render.vercel.app/api?text=Jun profile&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Jun&profile&animation=fadeIn)
 
 
 
