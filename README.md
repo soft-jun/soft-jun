@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-jun&layout=compact)](https://github.com/soft-jun/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-jun&show_icons=true&theme=radical)
 
-<a href="https://github.com/soft-jun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soft-jun&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/soft-jun/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soft-jun&repo=convoychat" />
-</a>
 
 
 
