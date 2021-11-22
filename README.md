@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-개발과 기획을 좋아하는 준영입니당
+![header] (https://capsule-render.vercel.app/api?type=wave@color=auto&height=300@section=header&test=capsule%20render&fontSize=90)
 
 
 
