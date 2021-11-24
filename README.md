@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <hr>
 
 
