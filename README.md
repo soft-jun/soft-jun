@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+저는 수원정보과학고등학교 IT소프트웨어과에 재학중인 이준영입니다.
+
 
 <!--
 **soft-jun/soft-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
