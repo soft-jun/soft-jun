@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Languages/Tools%20&fontSize=90" />
-  <br>
 <p/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
